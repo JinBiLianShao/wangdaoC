@@ -21,5 +21,8 @@
     <ClCompile Include="day01_1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="001.c">
+      <Filter>源文件\day01</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
