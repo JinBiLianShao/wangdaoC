@@ -1,6 +1,6 @@
-#include<stdio.h>
+ï»¿#include<stdio.h>
 int main(void)
 {
-	printf("ÄãºÃ£¬ÍõµÀCÓïÑÔ½Ì³Ì!!\n");
+	printf("ä½ å¥½ï¼Œç‹é“Cè¯­è¨€æ•™ç¨‹!!\n");
 	return 0;
 }
