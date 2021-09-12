@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="001.c" />
     <ClCompile Include="day01_1.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

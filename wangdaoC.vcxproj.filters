@@ -13,16 +13,10 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\day01">
-      <UniqueIdentifier>{ba5b74a9-318c-4261-b236-42105e62735a}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="day01_1.c">
       <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="001.c">
-      <Filter>源文件\day01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
