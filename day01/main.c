@@ -9,7 +9,9 @@
 
 int main()
 {
-	int i = 10;
+	long i = -5;
 	printf("i = %d", i);
-	return 0;
+	printf("%d", sizeof(int));
+	printf("%d", sizeof(short));
+	printf("%d", sizeof(long long));
 }
