@@ -4,5 +4,6 @@
 int main()
 {
 	int i = 10;
-	printf("d = %d", i);
+	printf("i = %d", i);
+	return 0;
 }
